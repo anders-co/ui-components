@@ -1,5 +1,5 @@
 {
-  "name": "@anders-co/ui",
+  "name": "@andersco/ui",
   "version": "1.0.0",
   "description": "React components I use regularly",
   "main": "dist/cjs/index.js",
