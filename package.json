@@ -1,8 +1,15 @@
 {
   "name": "@andersco/ui",
   "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/andersr"
+  },
   "description": "React components I use regularly",
   "main": "dist/cjs/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anders-co/ui-components"
+  },
   "scripts": {
     "test": "jest",
     "build": "rollup -c"
